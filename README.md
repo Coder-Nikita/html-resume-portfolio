@@ -33,6 +33,12 @@ This is a beginner-level project created without any frameworks — designed to 
 
 ---
 
+## 📸 Preview
+
+![Resume Preview](images/resume-preview.png)
+
+---
+
 ## 🧠 What I Learned
 
 - Semantic HTML tags like `<article>`, `<section>`, `<header>`, `<footer>`
